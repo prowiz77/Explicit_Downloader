@@ -1,5 +1,3 @@
-# Explicit Downloader
-
 <p align="center">
     <img src="https://github.com/prowiz77/Explicit_Downloader/blob/main/logos/explicit2.png" alt="Icon" />
 </p>
