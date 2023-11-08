@@ -12,7 +12,7 @@ Supported Sites:
   - xnxx.com 
 
 Requirements:
-  - UNIX(Linux, MacOS,etc.)
+  - UNIX-like(Linux, MacOS,etc.)
   - Python3
   - 18+
    
