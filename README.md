@@ -45,4 +45,4 @@ Run project
     
 ## Screenshots
 explcict-video-downloader:
-![App Screenshot](https://github.com/prowiz77/Explicit_Downloader/logo/Screenshot33.png)
+![App Screenshot](https://github.com/prowiz77/Explicit_Downloader/logos/Screenshot33.png)
