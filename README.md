@@ -43,3 +43,6 @@ Run project
   python3 main.py
 ```  
     
+## Screenshots
+explcict-video-downloader:
+![App Screenshot](https://github.com/prowiz77/CeNtis/blob/main/images/Screenshot33.png)
